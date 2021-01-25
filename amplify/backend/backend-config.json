@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cookbook10a48750": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

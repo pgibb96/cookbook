@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify4484d16238dc4-staging-183606-authRole",
+      "UnauthRoleArn": "arn:aws:iam::925804145859:role/amplify-amplify4484d16238dc4-staging-183606-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::925804145859:role/amplify-amplify4484d16238dc4-staging-183606-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify4484d16238dc4-staging-183606-deployment",
+      "UnauthRoleName": "amplify-amplify4484d16238dc4-staging-183606-unauthRole",
+      "StackName": "amplify-amplify4484d16238dc4-staging-183606",
+      "StackId": "arn:aws:cloudformation:us-east-2:925804145859:stack/amplify-amplify4484d16238dc4-staging-183606/2fdc1100-5f3c-11eb-9115-0a9f3c449e8c",
+      "AmplifyAppId": "d27gv3qn3fyhow"
+    },
+    "categories": {
+      "auth": {
+        "cookbook10a48750": {}
+      }
+    }
+  }
+}
