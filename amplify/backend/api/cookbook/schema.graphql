@@ -8,6 +8,6 @@ type Recipe @model {
 }
 
 type Pairing {
-  item: String!
-  amount: String!
+  item: String
+  amount: String
 }
