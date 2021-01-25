@@ -1,0 +1,13 @@
+type Recipe @model {
+  id: ID!
+  title: String!
+  description: String
+  ingredList: [Pairing]
+  steps: [String]
+  image: String
+}
+
+type Pairing {
+  item: String!
+  amount: String!
+}
